@@ -24,7 +24,9 @@ This **To-Do App** is built using **Jetpack Compose** and follows **modern Andro
 - **Lottie Animation View**
 
 ## Screenshots
-_Add screenshots here_
+<img width="150" height="300" src="https://github.com/UmairOye/TodoApp-JetpackCompose/blob/master/pictures/Screenshot_20250302-011508.png" alt="Image" >   <img width="150" height="300" src="https://github.com/UmairOye/TodoApp-JetpackCompose/blob/master/pictures/Screenshot_20250302-011445.png" alt="Image" >   <img width="150" height="300" src="https://github.com/UmairOye/TodoApp-JetpackCompose/blob/master/pictures/Screenshot_20250302-011451.png" alt="Image" >  <img width="150" height="300" src="https://github.com/UmairOye/TodoApp-JetpackCompose/blob/master/pictures/Screenshot_20250302-011459.png" alt="Image" >
+ <img width="150" height="300" src="https://github.com/UmairOye/TodoApp-JetpackCompose/blob/master/pictures/Screenshot_20250302-012852.png" alt="Image" >
+  <img width="150" height="300" src="https://github.com/UmairOye/TodoApp-JetpackCompose/blob/master/pictures/Screenshot_20250302-012852.png" alt="Image" >
 
 ## Installation & Setup
 1. Clone the repository:
@@ -42,4 +44,7 @@ _Add screenshots here_
 
 ## Contributions
 Contributions are welcome! Feel free to fork the repository and submit a PR with improvements.
+
+## Don't Forget to Star ⭐
+If you found this project useful or had fun exploring it, please consider giving it a star. It's a great way to show your appreciation and it puts a smile on my face! 😊🌟
 
