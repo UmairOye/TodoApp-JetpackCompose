@@ -29,7 +29,7 @@ _Add screenshots here_
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/todo-compose.git
+   https://github.com/UmairOye/TodoApp-JetpackCompose.git
    ```
 2. Open the project in **Android Studio**.
 3. Build and run the app on an emulator or a real device.
@@ -37,7 +37,7 @@ _Add screenshots here_
 ## How It Works
 - Add a new task via the input field.
 - Swipe left/right on a task to **edit or delete**.
-- Click on the checkbox to **toggle task completion state**.
+- Click on the checkbox to **toggle task deletion state**.
 - Enjoy animations and a smooth UI experience with Jetpack Compose.
 
 ## Contributions
