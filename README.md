@@ -26,7 +26,7 @@ This **To-Do App** is built using **Jetpack Compose** and follows **modern Andro
 ## Screenshots
 <img width="150" height="300" src="https://github.com/UmairOye/TodoApp-JetpackCompose/blob/master/pictures/Screenshot_20250302-011508.png" alt="Image" >   <img width="150" height="300" src="https://github.com/UmairOye/TodoApp-JetpackCompose/blob/master/pictures/Screenshot_20250302-011445.png" alt="Image" >   <img width="150" height="300" src="https://github.com/UmairOye/TodoApp-JetpackCompose/blob/master/pictures/Screenshot_20250302-011451.png" alt="Image" >  <img width="150" height="300" src="https://github.com/UmairOye/TodoApp-JetpackCompose/blob/master/pictures/Screenshot_20250302-011459.png" alt="Image" >
  <img width="150" height="300" src="https://github.com/UmairOye/TodoApp-JetpackCompose/blob/master/pictures/Screenshot_20250302-012852.png" alt="Image" >
-  <img width="150" height="300" src="https://github.com/UmairOye/TodoApp-JetpackCompose/blob/master/pictures/Screenshot_20250302-012852.png" alt="Image" >
+  <img width="150" height="300" src="https://github.com/UmairOye/TodoApp-JetpackCompose/blob/master/pictures/Screenshot_20250302-012844.png" alt="Image" >
 
 ## Installation & Setup
 1. Clone the repository:
