@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Todo Application - JetpackCompose</string>
+    <string name="drop_down_icon">Drop Down Icon</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="enter_heading">Enter Heading</string>
+    <string name="todo_task_saved_successfully">Todo Task Saved Successfully</string>
+    <string name="done">Done</string>
+    <string name="ok">OK</string>
+    <string name="all_fields_required">All Fields required</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="view_todo">View Todo</string>
+    <string name="all">Today</string>
+    <string name="all_todo">All Todo</string>
+    <string name="all_todos">All Todos</string>
+    <string name="back_button">Back Button</string>
+    <string name="checkbox_icon">Checkbox Icon</string>
+    <string name="no_items_found">No Items Found</string>
+    <string name="delete_items">Delete Items</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+
+
+</resources>
